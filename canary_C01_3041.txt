@@ -1,0 +1,4 @@
+# Canary credential - TTD experiment run #C01_3041
+push_id: C01_3041
+aws_access_key_id=AKIAAMFKEMOQX688OV0K
+aws_secret_access_key=JM25ii5n6kEo8JTTKmHViaSAv+He9SsX//jBsPfd
