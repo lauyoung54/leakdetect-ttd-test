@@ -1,0 +1,4 @@
+# canary #run05
+push_id=run05
+AWS_AK=AKIAIQPHXVWRN4XCPSKI
+AWS_SK=iz/ZBt8ZHUazYD1=O2DTseht580b=iAoij4b/j6M
