@@ -1,0 +1,4 @@
+# canary #C05
+push_id=C05
+AWS_AK=AKIAZ82G9OV5YTWRJXEF
+AWS_SK=zr7=N5ZmIRF+RuIdbZCtL6B9rCemw=jvNxUPp2Of
